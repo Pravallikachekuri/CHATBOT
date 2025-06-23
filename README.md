@@ -27,6 +27,7 @@ An efficient, minimalistic chatbot designed for fast and simple document questio
 
 >📂 Code Location: [lite-bot/](./DOC%20Q%26A%20CHATBOT/lite-bot)
 
+
 ---
 
 ### 2. **JudgeBot** – Advanced Q&A with Dual LLaMA Models (Ollama)
