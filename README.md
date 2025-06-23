@@ -25,7 +25,7 @@ An efficient, minimalistic chatbot designed for fast and simple document questio
   - Returns top 3 relevant chunks for any question
   - Highlights the most relevant sentence as the answer
 
-> 📂 Code Location: [lite-bot/](./DOC%20Q%26A%20CHATBOT/lite-bot)
+> 📂 Code Location: [lite-bot/](./DOC Q&A CHATBOT/judge-bot)
 
 
 ---
