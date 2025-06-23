@@ -1,16 +1,3 @@
-Thanks for sharing your current README content! I’ve cleaned it up, corrected the broken links (e.g. `lite-bot` was pointing to `judge-bot`), and added a few professional enhancements — including:
-
-* Corrected link formatting (for folders with spaces like `DOC Q&A CHATBOT`)
-* Added full instructions for running each bot
-* Completed the "Getting Started" section
-* Polished wording and formatting
-* Ensured it’s directly copy-paste ready for your `README.md` in your main `pdf-chatbots` repo
-
----
-
-### ✅ Final, Complete `README.md` (copy and paste this):
-
-````markdown
 # 🧠 Smart PDF Chatbots
 
 Interact with your PDF documents using two intelligent chatbot applications powered by different LLM and embedding architectures. These bots allow you to upload any PDF, ask natural-language questions, and receive context-aware answers—one with lightweight sentence-transformers, and one with dual LLaMA models that even **score the quality of the generated answers**.
