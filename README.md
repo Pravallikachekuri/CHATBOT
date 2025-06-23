@@ -62,3 +62,8 @@ A more powerful Q&A system that uses two LLaMA models via [Ollama](https://ollam
 ```bash
 git clone https://github.com/Pravallikachekuri/pdf-chatbots.git
 cd pdf-chatbots
+
+## 📝 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
