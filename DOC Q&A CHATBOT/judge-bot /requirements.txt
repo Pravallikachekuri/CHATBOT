@@ -1,1 +1,4 @@
-
+langchain
+langchain_ollama
+ollama
+rank_bm25
