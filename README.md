@@ -66,8 +66,9 @@ cd pdf-chatbots
 ### 2. Set Up Virtual Environment
 
 ```bash
-python -m venv venv
-source venv\Scripts\activate.ps1
+Set-ExecutionPolicy RemoteSigned -Scope Process   
+python -m venv cleanenv
+source cleanenv\Scripts\Activate.ps1
 ```
 
 Alternatively, refer to `env activate command.txt` inside the `DOC Q&A CHATBOT/` folder.
