@@ -26,7 +26,6 @@ An efficient, minimalistic chatbot designed for fast and simple document questio
 - Returns top 3 relevant chunks for any question
 - Highlights the most relevant sentence as the answer
 
-📂 Code Location: [`lite-bot`](./DOC%20Q%26A%20CHATBOT/lite-bot)
 
 ---
 
@@ -50,7 +49,6 @@ A more powerful Q&A system that uses two LLaMA models via [Ollama](https://ollam
   - ✅ **Improved Answer Suggestion**
 - Displays top 3 relevant chunks
 
-📂 Code Location: [`judge-bot`](./DOC%20Q%26A%20CHATBOT/judge-bot)
 
 ---
 
