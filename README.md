@@ -69,7 +69,7 @@ cd pdf-chatbots
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv\Scripts\activate.ps1
 ```
 
 Alternatively, refer to `env activate command.txt` inside the `DOC Q&A CHATBOT/` folder.
@@ -140,7 +140,7 @@ To contribute:
 
 ## 📬 Contact
 
-**Maintainer**: *Your Name*
+**Maintainer**: *Pravallika Chekuri*
 📧 Email: *[pravallika.chekuri711@gmail.com](mailto:pravallika.chekuri711@gmail.com)*
 🔗 GitHub: [Pravallikachekuri](https://github.com/Pravallikachekuri)
 
