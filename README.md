@@ -60,5 +60,5 @@ A more powerful Q&A system that uses two LLaMA models via [Ollama](https://ollam
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/pdf-chatbots.git
+git clone https://github.com/Pravallikachekuri/pdf-chatbots.git
 cd pdf-chatbots
