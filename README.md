@@ -110,10 +110,15 @@ pdf-chatbots/
 │   ├── judge-bot/
 │   │   ├── app.py
 │   │   └── requirements.txt
+│   ├── _pycache_/
+│   │   └── htmlTemplates.cpython-39.pyc
 │   ├── env activate command.txt
-│   └── requirements1.txt
+│   ├── requirements1.txt
+│   └── .gitignore                
 ├── LICENSE
 └── README.md
+
+
 ```
 
 ---
